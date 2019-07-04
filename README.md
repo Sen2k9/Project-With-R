@@ -2,7 +2,7 @@
 
 This is a Data Science project with to analyze a company data (collected from my previous employer) whether a employee has access right to a particular classified folder or not.
 
-This dataset has 13 features including the last one as indicating the output(ground truth) of accessing the folder or not.
+This dataset has 13 features including the last one as indicating the output(ground truth) of accessing the folder or not. "1" indicate has "access right", and "0" indicate "no access right". All other values for every columns are also numerical.
 
 Just to explore the ability of Machine learning algorithms in dealing with different types of data, I introduced two different types of algorithms
 
@@ -11,6 +11,7 @@ Just to explore the ability of Machine learning algorithms in dealing with diffe
 
 
 This two algorithm provides different accuracy when provided with this access log data. 
+
 
 Requirement:
 RStudio
